@@ -23,7 +23,7 @@ Chat with a PDF document.
     </tr>
     <tr>
         <td><img width="1270" alt="SCR-20240226-bfgp" src="https://github.com/peinan/pdfchat/assets/5601012/a9fec1be-9322-42cf-9ef5-fc742395bb85"></td>
-        <td><video src="https://github.com/peinan/pdfchat/assets/5601012/07d62829-35c0-489b-b5db-8f1dc8f8bcb0"/>
+        <td><video src="https://github.com/arpit/pdfchat/assets/5601012/07d62829-35c0-489b-b5db-8f1dc8f8bcb0"/>
 </td>
     </tr>
 </table>
