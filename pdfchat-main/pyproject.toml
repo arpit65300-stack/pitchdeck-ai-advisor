@@ -3,7 +3,7 @@ name = "pdfchat"
 version = "0.1.0"
 description = "Add your description here"
 authors = [
-    { name = "Peinan Zhang", email = "peinan7@gmail.com" }
+    { name = "Arpit Kumar", email = "arpit65300@gmail.com" }
 ]
 dependencies = [
     "gradio>=4.19.2",
